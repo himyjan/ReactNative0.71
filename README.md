@@ -1,13 +1,9 @@
 # react-native-template-typescript
 
 ```
-npx react-native init react_native_app --template react-native-template-typescript
+[https://github.com/facebook/react-native/tree/main/template](https://github.com/facebook/react-native/tree/main/template)
 ```
 ```
- npx react-native init react_native_app --template react-native-template-typescript
-
-
-
                ######                ######
              ###     ####        ####     ###
             ##          ###    ###          ##
